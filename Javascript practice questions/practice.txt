@@ -1,0 +1,50 @@
+Generate a random number between 1 and 10.
+Generate a random OTP between 1000 and 9999.
+Print numbers from 1 to 100 using loop.
+Print even numbers from 1 to 50.
+Print odd numbers from 1 to 50.
+Print multiplication table of a number.
+Find the sum of numbers from 1 to 100.
+Reverse a string using loop.
+Count vowels in a string.
+Count consonants in a string.
+Count spaces in a string.
+Check whether a string is palindrome or not.
+Print all characters of a string using for...of.
+Find the factorial of a number.
+Check whether a number is prime or not.
+Print Fibonacci series till n terms.
+Create a simple calculator using if-else.
+Create a calculator using switch.
+Print FizzBuzz from 1 to 100.
+Guess the random number game.
+Convert Celsius to Fahrenheit.
+Convert Fahrenheit to Celsius.
+Count how many times a character appears in a string.
+Remove all spaces from a string.
+Find the smallest number in given values.
+Find the largest number using Math.max().
+Round a decimal number using:
+Math.round()
+Math.floor()
+Math.ceil()
+Check whether a string starts with a specific word.
+Check whether a string ends with a specific character.
+Repeat a string 5 times using repeat().
+Create a username from full name:
+lowercase
+remove spaces
+add random number
+Check password strength based on length.
+Print star pattern:
+*
+**
+***
+****
+Print reverse star pattern.
+Find the average of 5 numbers.
+Create a marks grading system:
+90+ → A
+75+ → B
+50+ → C
+below 50 → Fail
